@@ -84,16 +84,6 @@ This will generate a full visualization of the driver’s fastest lap:
 
 ---
 
-## 📸 Example Output
-
-*(Add your generated image here)*
-
-```
-assets/monaco_ver_fastest_lap.png
-```
-
----
-
 ## 🧠 How It Works
 
 * FastF1 loads the race session using:

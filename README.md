@@ -116,3 +116,4 @@ This project is open-source under the **MIT License**.
 * **FastF1** for access to official F1 timing data
 * Matplotlib for the visualization tools
 
+If you are someone who is as interested as me in F1 and coding this project is must try
